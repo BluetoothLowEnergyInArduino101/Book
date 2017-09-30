@@ -18,25 +18,25 @@ Each chapter of this book teaches a new concept in Bluetooth Low Energy Programm
 
 The code is available in the following repositories:
 
-[Chapter 3: Bootstrapping](https://github.com/BluetoothLowEnergyInAndroid101/Chapter03)
+[Chapter 3: Bootstrapping](https://github.com/BluetoothLowEnergyInArduino101/Chapter03)
 
-[Chapter 4: Advertising](https://github.com/BluetoothLowEnergyInAndroid101/Chapter04)
+[Chapter 4: Advertising](https://github.com/BluetoothLowEnergyInArduino101/Chapter04)
 
-[Chapter 5: Connecting](https://github.com/BluetoothLowEnergyInAndroid101/Chapter05)
+[Chapter 5: Connecting](https://github.com/BluetoothLowEnergyInArduino101/Chapter05)
 
-[Chapter 6: Services and Characteristics](https://github.com/BluetoothLowEnergyInAndroid101/Chapter06)
+[Chapter 6: Services and Characteristics](https://github.com/BluetoothLowEnergyInArduino101/Chapter06)
 
-[Chapter 7: Reading Data from a Peripheral](https://github.com/BluetoothLowEnergyInAndroid101/Chapter07)
+[Chapter 7: Reading Data from a Peripheral](https://github.com/BluetoothLowEnergyInArduino101/Chapter07)
 
-[Chapter 8: Writing Data to a Peripheral](https://github.com/BluetoothLowEnergyInAndroid101/Chapter08)
+[Chapter 8: Writing Data to a Peripheral](https://github.com/BluetoothLowEnergyInArduino101/Chapter08)
 
-[Chapter 9: Using Notifications](https://github.com/BluetoothLowEnergyInAndroid101/Chapter09)
+[Chapter 9: Using Notifications](https://github.com/BluetoothLowEnergyInArduino101/Chapter09)
 
-[Chapter 10: Streaming Data](https://github.com/BluetoothLowEnergyInAndroid101/Chapter10)
+[Chapter 10: Streaming Data](https://github.com/BluetoothLowEnergyInArduino101/Chapter10)
 
-[Chapter 11: Project: Echo Client and Server](https://github.com/BluetoothLowEnergyInAndroid101/Chapter11)
+[Chapter 11: Project: Echo Client and Server](https://github.com/BluetoothLowEnergyInArduino101/Chapter11)
 
-[Chapter 12: Project: Remote Control LED](https://github.com/BluetoothLowEnergyInAndroid101/Chapter12)
+[Chapter 12: Project: Remote Control LED](https://github.com/BluetoothLowEnergyInArduino101/Chapter12)
 
 
 
